@@ -6,13 +6,13 @@ Counts how many likes and passes have you done on your Tinder account.
 - python version 3.* as the the program uses only json library and built-in dictionary operations.
 
 #### Output
-Swipes in total: <number> 
-Likes: <number> 
-Passes: <number> 
+Swipes in total: '<number>' 
+Likes: '<number>' 
+Passes: '<number>' 
 
 Percentages: 
-Likes: <number>% 
-Passes: <number>% 
+Likes: '<number>'% 
+Passes: '<number>'% 
 
 #### Running the program
 - insert data.json file in the same directory as 'swipes\_couner\_tinder.py' file
