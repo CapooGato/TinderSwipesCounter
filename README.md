@@ -12,7 +12,7 @@ Passes: `<number>`
 
 Percentages: 
 Likes: `<number>`%\
-Passes: `<number>`%\
+Passes: `<number>`%
 
 #### Running the program
 - insert data.json file in the same directory as 'swipes\_couner\_tinder.py' file
