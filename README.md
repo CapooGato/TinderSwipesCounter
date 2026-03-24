@@ -15,5 +15,5 @@ Likes: `<number>`%
 Passes: `<number>`%
 
 #### Running the program
-- insert data.json file in the same directory as 'swipes\_couner\_tinder.py' file
+- insert data.json file in the same directory as 'swipes\_counter\_tinder.py' file
 - run the script
