@@ -10,7 +10,7 @@ Swipes in total: `<number>`\
 Likes: `<number>`\
 Passes: `<number>`
 
-Percentages: 
+Percentages:\ 
 Likes: `<number>`%\
 Passes: `<number>`%
 
