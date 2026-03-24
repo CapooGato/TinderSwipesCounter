@@ -7,11 +7,11 @@ Counts how many likes and passes have you done on your Tinder account.
 
 #### Output
 Swipes in total: `<number>`  
-Likes: `<number>`\
+Likes: `<number>`  
 Passes: `<number>`
 
-Percentages: 
-Likes: `<number>`%\
+Percentages:   
+Likes: `<number>`%  
 Passes: `<number>`%
 
 #### Running the program
