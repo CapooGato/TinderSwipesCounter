@@ -1,5 +1,6 @@
 import json
 
+
 try:
     with open('data.json', mode='r', encoding='utf-8') as file:
         data = json.load(file)
